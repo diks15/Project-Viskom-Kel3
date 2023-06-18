@@ -90,7 +90,7 @@ Berikut link youtube yang berisi video demonstrasi dari aplikasi yang dibuat, un
 - Demo ke 1 (Without MQTT)
 https://youtu.be/WuTvR-BgOXY
 
-- Demo ke 1 (With MQTT)
+- Demo ke 2 (With MQTT)
 https://youtu.be/o5yy9dyDLYg
 
 ## Referensi
