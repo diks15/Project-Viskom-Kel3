@@ -3,6 +3,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![](https://img.shields.io/badge/python-3.8.10-blue.svg)](https://www.python.org/downloads/)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 Proyek ini menggabungkan teknologi Pre-Trained Object Detection menggunakan OpenCV dengan model YOLOv4 dan platform ESP32 yang mendukung protokol MQTT. Dengan menggunakan kombinasi ini, proyek ini dapat mendeteksi objek dalam waktu nyata dan mengirimkan data deteksi melalui protokol MQTT ke perangkat ESP32.
 
 ## Features
